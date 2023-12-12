@@ -82,4 +82,17 @@ Successful response
 500	
 Internal Server Error
 
+**Swagger Documentation**
+Document your API using Swagger for easy reference. Include information on how users can access the Swagger documentation.
+
+URL: Swagger Documentation
+
+![image](https://github.com/sagarnayar/SI_FINAL-PROJECT/assets/143444397/81d19e86-9a9e-4f52-8a1a-7eb2f126dc2d)
+
+![image](https://github.com/sagarnayar/SI_FINAL-PROJECT/assets/143444397/9cd41f74-f4fe-4cf1-bbe7-9f5e7215b8ce)
+![image](https://github.com/sagarnayar/SI_FINAL-PROJECT/assets/143444397/6e52582d-ab27-48f8-b7df-b971ae08529e)
+
+
+
+
 
