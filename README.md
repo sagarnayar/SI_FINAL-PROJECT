@@ -15,7 +15,7 @@ The Azure AI Language API provides powerful text summarization capabilities, all
   - [Request](#request)
   - [Response](#response)
 - [Error Handling](#error-handling)
-- [Support and Feedback](#support-and-feedback)
+- [Support]
 
 ## Getting Started
 
@@ -37,7 +37,7 @@ Before using the Summarization API, ensure you have the following:
 
 Install the required Python library for making API requests:
 
-```bash
+bash
 pip install azure-ai-textanalytics
 
 
