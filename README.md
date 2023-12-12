@@ -69,4 +69,17 @@ THE RESULT IS BELOW FOR THE QUERY GIVEN
 
 ![image](https://github.com/sagarnayar/SI_FINAL-PROJECT/assets/143444397/7cc8893c-b118-4c11-b306-515a52d8a3c0)
 
+Handle errors by checking the errors field in the API response. If errors occur, the documents field will be empty.
+
+Responses
+Response content type
+
+
+Code	Description
+200	
+Successful response
+
+500	
+Internal Server Error
+
 
