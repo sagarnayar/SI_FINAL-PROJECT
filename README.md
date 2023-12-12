@@ -85,14 +85,15 @@ Internal Server Error
 **Swagger Documentation**
 Document your API using Swagger for easy reference. Include information on how users can access the Swagger documentation.
 
-URL: Swagger Documentation
+**URL: Swagger Documentation**
 
 ![image](https://github.com/sagarnayar/SI_FINAL-PROJECT/assets/143444397/81d19e86-9a9e-4f52-8a1a-7eb2f126dc2d)
 
 ![image](https://github.com/sagarnayar/SI_FINAL-PROJECT/assets/143444397/9cd41f74-f4fe-4cf1-bbe7-9f5e7215b8ce)
 ![image](https://github.com/sagarnayar/SI_FINAL-PROJECT/assets/143444397/6e52582d-ab27-48f8-b7df-b971ae08529e)
 
-
+**Summary**
+The Azure AI Language API - Summarization empowers users to generate concise and contextually relevant summaries of documents or text content. This API, backed by powerful text summarization capabilities, is a valuable tool for developers looking to integrate advanced language processing features into their applications. By following the straightforward steps outlined in this README, users can quickly get started, obtain API keys, and seamlessly integrate the Summarization API into their Python applications. The provided Swagger documentation adds an extra layer of convenience for users to reference and explore the API functionalities easily.
 
 
 
